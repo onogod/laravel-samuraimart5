@@ -276,28 +276,7 @@ body {
         color:#e2d06e;
     }  
 
-    /*.samuraimart-star-rating {
-        position: relative;
-        display: inline-block;
-        width: 150px; 
-        height: 30px; 
-        font-size: 30px;&::before
-        &::after {
-        position: absolute;
-        display: inline-block;
-        height: 30px;
-        content: ‘★★★★★’;
-        line-height: 30px;
-        }
-        &::before {
-        color: #c4c4c4; 
-        }
-        &::after {
-            overflow: hidden;
-            width: 105px; 
-            color: #ffb906;
-            }
-        } */
+
     
     
         .samuraimart-star-rating::before  {
